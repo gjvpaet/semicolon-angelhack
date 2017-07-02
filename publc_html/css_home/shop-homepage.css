@@ -1,0 +1,47 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+body{
+      padding-top: 70px !important;
+}
+
+nav.navbar-edit{
+	background-color: #B80303;
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+}
+
+a{
+	color: #3CAA3A;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #296728;
+}
+
+
+.menu{
+	color: white;
+        display: inline;
+}
+
+.menu:hover {
+	color: gray;
+	background-color: #B80303;
+}
+
+a.app-name{
+    font-family: 'Pacifico', cursive;
+    font-size: 2.3em;
+    text-shadow: 1px 1px 2px #000000;
+    color: white;
+}
+
+ul li {
+    display: inline;
+}
